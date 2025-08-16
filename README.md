@@ -1,2 +1,3 @@
 # Statistics-2
-Implementation and exploration of statistical distributions. (Assignment work)
+# This repository contains .ipynb files for Statistics-2. These files are intended solely for admin review.
+
